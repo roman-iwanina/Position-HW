@@ -95,8 +95,7 @@ html {
   width: 15.9%;
   height: 105px;
   background: #00313a;
-  top: 150px;
-  left: 42.1%;
-  align-items: center;
+  margin: auto;
+  top: 0; left: 0; bottom: 0; right: 0;
   padding-top: 40px;
 }
